@@ -1,17 +1,5 @@
-Адрес host - http://fb7960l1.beget.tech/
-Аккаунт фермера:
-email: fermer@mail.ru
-password: 123456
-# Getting Started with Create React App
+Первый международный Хакатон 🔥 Код мира
+г. Грозный ✈
+12 место 🏆
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+Ссылка на новость 🔗 - https://www.vesti.ru/article/3375855
